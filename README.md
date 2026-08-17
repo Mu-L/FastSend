@@ -138,13 +138,3 @@ docker-compose up -d
 ## ⭐ 支持项目
 
 如果这个项目对你有帮助，欢迎给一个 star 支持一下！
-
------
-
-> [!IMPORTANT]
->
-> 由于 GitHub API 近期增加了仓库 Stars 信息读取的限制，提供 Live Chart 必须同时拥有一个可以读取仓库 Metadata 和读写 Contents 的 Classic Personal Access Token 或 Fine-granted Access Token 。
->
-> 鉴于此，我们不再于 README 中提供 Star History Live Chart 。
->
-> 如需查看，请前往 [Star History](https://www.star-history.com/?repos=ShouChenICU%2FFastSend&type=date&legend=top-left) 官网并提供您自己的 Token 。
